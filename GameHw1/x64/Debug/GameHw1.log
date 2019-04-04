@@ -1,0 +1,6 @@
+﻿  GameHw1.cpp
+c:\users\songhyeonwook\desktop\대학교과목\4-1\게임프로그래밍\과제1\gameprograming-master\gameprograming-master\gamehw1\gamehw1\gamehw1.cpp(156): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\songhyeonwook\desktop\대학교과목\4-1\게임프로그래밍\과제1\gameprograming-master\gameprograming-master\gamehw1\gamehw1\gamehw1.cpp(173): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\songhyeonwook\desktop\대학교과목\4-1\게임프로그래밍\과제1\gameprograming-master\gameprograming-master\gamehw1\gamehw1\gamehw1.cpp(174): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameHw1.vcxproj -> C:\Users\SongHyeonWook\Desktop\대학교과목\4-1\게임프로그래밍\과제1\GamePrograming-master\GamePrograming-master\GameHw1\x64\Debug\GameHw1.exe
+  GameHw1.vcxproj -> C:\Users\SongHyeonWook\Desktop\대학교과목\4-1\게임프로그래밍\과제1\GamePrograming-master\GamePrograming-master\GameHw1\x64\Debug\GameHw1.pdb (Partial PDB)
